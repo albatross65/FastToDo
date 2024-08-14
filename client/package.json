@@ -13,7 +13,7 @@
   "dependencies": {
     "@babel/core": "^7.23.2",
     "@babel/traverse": "^7.23.2",
-    "axios": "^1.5.0",
+    "axios": "^1.7.4",
     "moment": "^2.29.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
